@@ -1,4 +1,4 @@
-# untitled
+# Messenger app
 
 ## Project setup
 ```
